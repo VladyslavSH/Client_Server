@@ -1,0 +1,42 @@
+C:\Users\Виталя\Downloads\Lab4\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Виталя\Downloads\Lab4\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Виталя\Downloads\Lab4\Client\Client\bin\Debug\Client.exe
+C:\Users\Виталя\Downloads\Lab4\Client\Client\bin\Debug\Client.pdb
+C:\Users\Виталя\Downloads\Lab4\Client\Client\obj\Debug\Client.exe
+C:\Users\Виталя\Downloads\Lab4\Client\Client\obj\Debug\Client.pdb
+I:\Lab4\Client\Client\bin\Debug\Client.exe.config
+I:\Lab4\Client\Client\obj\Debug\Client.exe
+I:\Lab4\Client\Client\obj\Debug\Client.pdb
+H:\Lab4\Client\Client\bin\Debug\Client.exe.config
+H:\Lab4\Client\Client\obj\Debug\Client.exe
+H:\Lab4\Client\Client\obj\Debug\Client.pdb
+D:\ФЛЕШ\3 курс\ПРО\ЛР4\Lab4\Client\Client\bin\Debug\Client.exe.config
+D:\ФЛЕШ\3 курс\ПРО\ЛР4\Lab4\Client\Client\obj\Debug\Client.exe
+D:\ФЛЕШ\3 курс\ПРО\ЛР4\Lab4\Client\Client\obj\Debug\Client.pdb
+D:\ФЛЕШ\3 курс\ПРО\ЛР4\Lab4\Client\Client\bin\Debug\Client.exe
+D:\ФЛЕШ\3 курс\ПРО\ЛР4\Lab4\Client\Client\bin\Debug\Client.pdb
+D:\ФЛЕШ\3 курс\ПРО\ЛР4\Lab4\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\VADIM\Desktop\Lab4\Client\Client\bin\Debug\Client.exe.config
+C:\Users\VADIM\Desktop\Lab4\Client\Client\obj\Debug\Client.exe
+C:\Users\VADIM\Desktop\Lab4\Client\Client\obj\Debug\Client.pdb
+C:\Users\VADIM\Desktop\Lab4\Client\Client\bin\Debug\Client.exe
+C:\Users\VADIM\Desktop\Lab4\Client\Client\bin\Debug\Client.pdb
+C:\Users\VADIM\Desktop\Lab4\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\VADIM\Desktop\Polindrom\Client\Client\bin\Debug\Client.exe.config
+C:\Users\VADIM\Desktop\Polindrom\Client\Client\obj\Debug\Client.exe
+C:\Users\VADIM\Desktop\Polindrom\Client\Client\obj\Debug\Client.pdb
+D:\C# (КОД)\Polindrom\Client\Client\bin\Debug\Client.exe.config
+D:\C# (КОД)\Polindrom\Client\Client\obj\Debug\Client.exe
+D:\C# (КОД)\Polindrom\Client\Client\obj\Debug\Client.pdb
+C:\Users\VADIM\Desktop\Polindrom\Client\Client\bin\Debug\Client.exe
+C:\Users\VADIM\Desktop\Polindrom\Client\Client\bin\Debug\Client.pdb
+C:\Users\VADIM\Desktop\Polindrom\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\VADIM\Desktop\ШАГ\Сет. прогр\Polindrom\Client\Client\bin\Debug\Client.exe.config
+C:\Users\VADIM\Desktop\ШАГ\Сет. прогр\Polindrom\Client\Client\obj\Debug\Client.exe
+C:\Users\VADIM\Desktop\ШАГ\Сет. прогр\Polindrom\Client\Client\obj\Debug\Client.pdb
+D:\Polindrom\Polindrom\Client\Client\bin\Debug\Client.exe.config
+D:\Polindrom\Polindrom\Client\Client\bin\Debug\Client.exe
+D:\Polindrom\Polindrom\Client\Client\bin\Debug\Client.pdb
+D:\Polindrom\Polindrom\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Polindrom\Polindrom\Client\Client\obj\Debug\Client.exe
+D:\Polindrom\Polindrom\Client\Client\obj\Debug\Client.pdb
